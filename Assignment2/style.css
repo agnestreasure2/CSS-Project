@@ -1,0 +1,45 @@
+* {
+    background-color: white;
+    margin-left: 3em;
+    margin-top: 1em;
+   
+}
+div {
+    border: 2px double black;
+    border-radius: 20px;
+    width: 500px;
+}
+.first_section h1 {
+    font-size: 18px;
+}
+.first_section {
+    color: green;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 14px;
+    padding-top: 10px;
+  
+}
+.second_section h2 {
+    font-size: 18px;
+}
+.second_section {
+    color: red;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 14px;
+    padding-right: 10px;
+    
+}
+.third_section h2 {
+    font-size: 18px;
+}
+.third_section {
+    color: blue;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 14px;
+    margin-bottom: 2em;
+    padding-top: 10px;
+    
+}
