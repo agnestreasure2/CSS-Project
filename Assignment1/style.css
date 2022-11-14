@@ -1,35 +1,30 @@
 * {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-color: white;
-    text-align: center;
-    gap: 0px;
+    margin-top: 1em;
+    
 }
 .likes_header h1 {
-    color: violet;
-    text-align: center;
+    color: rgb(143, 121, 143);
+    
 }
 .likes_header h2 {
     color: blue;
+    margin-right: 3em;
     
 }
 #likes_header_list {
-    text-align: center;
-    font-size: 19px;
+    font-size: 17px;
     color: rgb(26, 20, 11);
-    justify-content: center;
-    display: inline-block;
+    text-transform: capitalize;
     list-style: square;
 }
 .dislikes_header h2 {
-    color: blue;
-    
+    color: blue; 
+    margin-left: 1.7em;  
 }
 #dislikes_header_list {
-    text-align: center;
-    font-size: 19px;
+    font-size: 17px;
     color: rgb(26, 20, 11);
-    justify-content: center;
-    display: inline-block;
     list-style: square;
-    margin-left: 5px;    
+       
 }
