@@ -9,6 +9,8 @@ div {
     border-radius: 20px;
     width: 500px;
     background-color: black;
+    padding: 10px;
+    justify-content: space-evenly;
 }
 .first_section h1 {
     font-size: 18px;
@@ -20,7 +22,7 @@ div {
     font-size: 14px;
     padding-top: 10px;
     padding-right: 10px;
-    justify-content: space-evenly;
+   
   
 }
 .second_section h2 {
@@ -33,7 +35,7 @@ div {
     font-size: 14px;
     padding-top: 5px;
     padding-right: 10px;
-    justify-content: space-evenly;
+    
     
 }
 .third_section h2 {
